@@ -9,7 +9,7 @@ json // JSON data is assigned to `json` global variable which is declared in `js
  *      - number as a string + currency symbol '100.5$' (remove currency symbol and convert to Number)
  *      - `false` (convert to 0)
  */
-var users = 'Fix me';
+var users = 'Fix    me';
 
 
 /*
